@@ -1,18 +1,2 @@
-@import "node_modules/bootstrap/scss/bootstrap";
-@import "node_modules/fullpage.js/dist/fullpage";
-
-body {
-   margin: 0;
-   padding: 0;
-   box-sizing: border-box;
-
-   height: 200vh;
-   width: 100%;
-   background-color: green;
-   img {
-      height: 50vh;
-   }
-}
-.test1 {
-   background-color: rgb(143, 51, 67);
-}
+//Import other .css etc. files here
+@import "./style";
