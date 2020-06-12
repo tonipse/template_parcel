@@ -1,7 +1,7 @@
 {
-   "name": "",
+   "name": "name",
    "version": "0.0.0",
-   "description": "",
+   "description": "description",
    "private": true,
    "scripts": {
       "dev": "parcel src/*.html",
@@ -9,14 +9,14 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/tonipse/webpack.git"
+      "url": "git+https://github.com/tonipse/template_parcel.git"
    },
-   "author": "",
+   "author": "Toni Peise",
    "license": "ISC",
    "bugs": {
-      "url": "https://github.com/tonipse/webpack/issues"
+      "url": "https://github.com/tonipse/template_parcel/issues"
    },
-   "homepage": "https://github.com/tonipse/webpack#readme",
+   "homepage": "https://github.com/tonipse/template_parcel#readme",
    "devDependencies": {
       "parcel-bundler": "^1.12.4",
       "sass": "^1.26.5"
